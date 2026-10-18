@@ -18,4 +18,4 @@ Freelance developer from Poland. I build landing pages and websites, write web s
 
 #### Tools I use
 
-JavaScript, TypeScript, HTML/CSS, React / React Native, Node.js, Python, MongoDB, PostgreSQL, Git
+JavaScript, HTML/CSS, React Native, Node.js, Python, MongoDB, Git
